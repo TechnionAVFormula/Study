@@ -5,11 +5,13 @@
 - [Study material](#study-material)
   - [Table of content](#table-of-content)
   - [Learning materials](#learning-materials)
+  - [ML concepts](#ml-concepts)
   - [Formula competition](#formula-competition)
   - [Software](#software)
     - [Useful python modules](#useful-python-modules)
     - [Vscode extension](#vscode-extension)
     - [Cheatsheets](#cheatsheets)
+    - [Hardware](#hardware)
 
 ## Learning materials
 
@@ -25,6 +27,13 @@
 - [Python intermediate](https://book.pythontips.com/en/latest/)
 - [Transfer learning PyTorch](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA), A great resource for computer science information. You can find alot of NN videos like [here](https://www.youtube.com/watch?v=tlS5Y2vm02c&list=PLzH6n4zXuckquVnQ0KlMDxyT5YE-sA8Ps)
+- [Papers with code](https://paperswithcode.com/), leading ML,AI algorithms with code!
+
+## ML concepts
+
+- [Multi task training](https://ruder.io/multi-task/), dealing with overfitting using multiple task loss.
+- [Weight decay](https://becominghuman.ai/this-thing-called-weight-decay-a7cd4bcfccab).
+- [RMSprop](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a), RMSprop along with weight decay compromise ADAM optimizer
 
 ## Formula competition
 
@@ -69,4 +78,6 @@
 - [Git](atlassian-git-cheatsheet.pdf)
 - [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [Linux](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
-- Test
+
+### Hardware
+- Nvidia PX2
