@@ -78,6 +78,7 @@
 - [Git](atlassian-git-cheatsheet.pdf)
 - [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [Linux](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+- [Linux Shortcuts](https://www.howtogeek.com/howto/41418/how-to-be-more-productive-in-ubuntu-using-keyboard-shortcuts/)
 
 ### Hardware
 - Nvidia PX2
