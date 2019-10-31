@@ -11,7 +11,8 @@
     - [Useful python modules](#useful-python-modules)
     - [Vscode extension](#vscode-extension)
     - [Cheatsheets](#cheatsheets)
-    - [Hardware](#hardware)
+  - [Hardware](#hardware)
+  - [State Estimation](#State-Estimation)
 
 ## Learning materials
 
@@ -80,5 +81,8 @@
 - [Linux](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
 - [Linux Shortcuts](https://www.howtogeek.com/howto/41418/how-to-be-more-productive-in-ubuntu-using-keyboard-shortcuts/)
 
-### Hardware
+## Hardware
 - Nvidia PX2
+
+## State Estimation
+- [Kalman Filters](https://youtu.be/ul3u2yLPwU0)
