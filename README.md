@@ -12,7 +12,9 @@
     - [Vscode extension](#vscode-extension)
     - [Cheatsheets](#cheatsheets)
   - [Hardware](#hardware)
-  - [State Estimation](#State-Estimation)
+  - [State Estimation](#state-estimation)
+    - [Kalman Filtering](#kalman-filtering)
+    - [Vehicle Dynamic Modeling](#vehicle-dynamic-modeling)
 
 ## Learning materials
 
@@ -85,5 +87,9 @@
 - Nvidia PX2
 
 ## State Estimation
+### Kalman Filtering
 - [Kalman Filters Videos](https://youtu.be/ul3u2yLPwU0)
-- Kalman Filters Matlab Examples:  Run Command in matlab:   openExample('control/KalmanFilteringExample') 
+- Kalman Filters Matlab Example: ``` openExample('control/KalmanFilteringExample') ```
+
+### Vehicle Dynamic Modeling
+- Vehicle Dynamics System Matlab Example: ```openExample('ident/idnlgreydemo11') ```
