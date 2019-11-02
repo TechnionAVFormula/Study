@@ -32,6 +32,7 @@
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA), A great resource for computer science information. You can find alot of NN videos like [here](https://www.youtube.com/watch?v=tlS5Y2vm02c&list=PLzH6n4zXuckquVnQ0KlMDxyT5YE-sA8Ps)
 - [Papers with code](https://paperswithcode.com/), leading ML,AI algorithms with code!
 - [RL OpenAI Tuts - Recommended](https://spinningup.openai.com/en/latest/)
+- [Managing Conda envs](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
 
 ## ML concepts
 
