@@ -31,6 +31,7 @@
 - [Transfer learning PyTorch](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html)
 - [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA), A great resource for computer science information. You can find alot of NN videos like [here](https://www.youtube.com/watch?v=tlS5Y2vm02c&list=PLzH6n4zXuckquVnQ0KlMDxyT5YE-sA8Ps)
 - [Papers with code](https://paperswithcode.com/), leading ML,AI algorithms with code!
+- [RL OpenAI Tuts - Recommended](https://spinningup.openai.com/en/latest/)
 
 ## ML concepts
 
