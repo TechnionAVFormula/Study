@@ -66,6 +66,7 @@
 - [Selenium](https://selenium-python.readthedocs.io), for web scraping.
 - [PyGame](http://www.pygame.org/news.html), creating simple simulators.
 - [Jupyter Notebook](https://jupyter.org/). not a module but very useful.
+- [Gym](http://gym.openai.com/docs/), Python framework for creating RL environments
 
 ### Vscode extension
 
