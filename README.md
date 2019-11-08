@@ -15,6 +15,7 @@
   - [State Estimation](#state-estimation)
     - [Kalman Filtering](#kalman-filtering)
     - [Vehicle Dynamic Modeling](#vehicle-dynamic-modeling)
+  - [Usefull links](#usefull-links)
 
 ## Learning materials
 
@@ -95,3 +96,6 @@
 
 ### Vehicle Dynamic Modeling
 - Vehicle Dynamics System Matlab Example: ```openExample('ident/idnlgreydemo11') ```
+
+## Usefull links
+- [Sphinx](http://www.sphinx-doc.org/en/master/index.html) - Framework for creating documentations
