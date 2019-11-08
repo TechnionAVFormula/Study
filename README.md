@@ -34,6 +34,7 @@
 - [Papers with code](https://paperswithcode.com/), leading ML,AI algorithms with code!
 - [RL OpenAI Tuts - Recommended](https://spinningup.openai.com/en/latest/)
 - [Managing Conda envs](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
+- [Deep RL bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
 ## ML concepts
 
