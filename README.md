@@ -8,10 +8,11 @@
   - [ML concepts](#ml-concepts)
   - [Formula competition](#formula-competition)
   - [Software](#software)
+  - [Hardware](#hardware)
     - [Useful python modules](#useful-python-modules)
     - [Vscode extension](#vscode-extension)
     - [Cheatsheets](#cheatsheets)
-    - [Hardware](#hardware)
+    - [Hardware](#hardware-1)
 
 ## Learning materials
 
@@ -34,6 +35,7 @@
 - [Multi task training](https://ruder.io/multi-task/), dealing with overfitting using multiple task loss.
 - [Weight decay](https://becominghuman.ai/this-thing-called-weight-decay-a7cd4bcfccab).
 - [RMSprop](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a), RMSprop along with weight decay compromise ADAM optimizer
+- [Adam optimizer](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
 
 ## Formula competition
 
@@ -45,6 +47,9 @@
 - [Vs code](https://code.visualstudio.com/) The best IDE for development. Extensions can be found [here](##Vscode-extension)
 - [Anaconda for python](https://www.anaconda.com/)
 - [MongoDB](https://www.mongodb.com/)
+
+## Hardware
+- [Choosing a GPU for deep learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
 
 ### Useful python modules
 
