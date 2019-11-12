@@ -8,11 +8,10 @@
   - [ML concepts](#ml-concepts)
   - [Formula competition](#formula-competition)
   - [Software](#software)
-  - [Hardware](#hardware)
     - [Useful python modules](#useful-python-modules)
     - [Vscode extension](#vscode-extension)
     - [Cheatsheets](#cheatsheets)
-  - [Hardware](#hardware-1)
+  - [Hardware](#hardware)
   - [State Estimation](#state-estimation)
     - [Kalman Filtering](#kalman-filtering)
     - [Vehicle Dynamic Modeling](#vehicle-dynamic-modeling)
@@ -54,9 +53,6 @@
 - [Anaconda for python](https://www.anaconda.com/)
 - [MongoDB](https://www.mongodb.com/)
 
-## Hardware
-- [Choosing a GPU for deep learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
-
 ### Useful python modules
 
 - [Numpy](https://numpy.org/)
@@ -94,6 +90,7 @@
 
 ## Hardware
 - Nvidia PX2
+- [Choosing a GPU for deep learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
 
 ## State Estimation
 ### Kalman Filtering
