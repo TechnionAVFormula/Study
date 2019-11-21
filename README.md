@@ -16,6 +16,8 @@
     - [Kalman Filtering](#kalman-filtering)
     - [Vehicle Dynamic Modeling](#vehicle-dynamic-modeling)
   - [Usefull links](#usefull-links)
+  - [Papers](#papers)
+    - [RL](#rl)
 
 ## Learning materials
 
@@ -105,3 +107,8 @@
 
 ## Usefull links
 - [Sphinx](http://www.sphinx-doc.org/en/master/index.html) - Framework for creating documentations
+
+## Papers
+
+### RL
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
