@@ -69,6 +69,8 @@
 - [Jupyter Notebook](https://jupyter.org/). not a module but very useful.
 - [Gym](http://gym.openai.com/docs/), Python framework for creating RL environments
 - [Skorch - A scikit-learn compatible neural network library that wraps PyTorch.](https://skorch.readthedocs.io/en/latest/index.html)
+- [mpc.pytorch](https://locuslab.github.io/mpc.pytorch/) - A fast and differentiable model predictive control (MPC) solver for PyTorch
+- [Python Control Systems Library](https://python-control.readthedocs.io/en/latest/)
 
 ### Vscode extension
 
