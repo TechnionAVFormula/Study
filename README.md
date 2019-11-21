@@ -93,7 +93,7 @@
 
 ## Hardware
 - Nvidia PX2
-- [Choosing a GPU for deep learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/
+- [Choosing a GPU for deep learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
 
 ## State Estimation
 ### Kalman Filtering
