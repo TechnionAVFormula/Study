@@ -36,6 +36,7 @@
 - [Papers with code](https://paperswithcode.com/), leading ML,AI algorithms with code!
 - [RL OpenAI Tuts - Recommended](https://spinningup.openai.com/en/latest/)
 - [Managing Conda envs](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
+- [CNN inner layers visualization](https://tensorspace.org/html/playground/lenet.html)
 
 ## ML concepts
 
@@ -94,7 +95,6 @@
 - [Linux Shortcuts](https://www.howtogeek.com/howto/41418/how-to-be-more-productive-in-ubuntu-using-keyboard-shortcuts/)
 
 ## Hardware
-- Nvidia PX2
 - [Choosing a GPU for deep learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
 
 ## State Estimation
