@@ -74,6 +74,7 @@
 - [Skorch - A scikit-learn compatible neural network library that wraps PyTorch.](https://skorch.readthedocs.io/en/latest/index.html)
 - [mpc.pytorch](https://locuslab.github.io/mpc.pytorch/) - A fast and differentiable model predictive control (MPC) solver for PyTorch
 - [Python Control Systems Library](https://python-control.readthedocs.io/en/latest/)
+- [Python GUI](https://pysimplegui.readthedocs.io/en/latest/)
 
 ### Vscode extension
 
