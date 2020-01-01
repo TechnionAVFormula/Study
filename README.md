@@ -75,6 +75,7 @@
 - [mpc.pytorch](https://locuslab.github.io/mpc.pytorch/) - A fast and differentiable model predictive control (MPC) solver for PyTorch
 - [Python Control Systems Library](https://python-control.readthedocs.io/en/latest/)
 - [Python GUI](https://pysimplegui.readthedocs.io/en/latest/)
+- [Adding color to python output](http://ozzmaker.com/add-colour-to-text-in-python/)
 
 ### Vscode extension
 
