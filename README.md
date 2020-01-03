@@ -16,6 +16,7 @@
     - [Kalman Filtering](#kalman-filtering)
     - [Vehicle Dynamic Modeling](#vehicle-dynamic-modeling)
   - [Usefull links](#usefull-links)
+  - [Productivity](#productivity)
 
 ## Learning materials
 
@@ -35,6 +36,7 @@
 - [RL OpenAI Tuts - Recommended](https://spinningup.openai.com/en/latest/)
 - [Managing Conda envs](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
 - [Deep RL bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+- [CS285 Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/) 
 
 ## ML concepts
 
@@ -101,3 +103,6 @@
 
 ## Usefull links
 - [Sphinx](http://www.sphinx-doc.org/en/master/index.html) - Framework for creating documentations
+
+## Productivity
+- [Bash one liners](http://www.bashoneliners.com/oneliners/popular/) 
