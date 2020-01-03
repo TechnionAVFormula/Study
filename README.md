@@ -16,7 +16,12 @@
     - [Kalman Filtering](#kalman-filtering)
     - [Vehicle Dynamic Modeling](#vehicle-dynamic-modeling)
   - [Usefull links](#usefull-links)
+<<<<<<< HEAD
   - [Productivity](#productivity)
+=======
+  - [Papers](#papers)
+    - [RL](#rl)
+>>>>>>> 41b4bed688dfa072ca4c0970a2303132d23122ec
 
 ## Learning materials
 
@@ -35,14 +40,19 @@
 - [Papers with code](https://paperswithcode.com/), leading ML,AI algorithms with code!
 - [RL OpenAI Tuts - Recommended](https://spinningup.openai.com/en/latest/)
 - [Managing Conda envs](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
+<<<<<<< HEAD
 - [Deep RL bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [CS285 Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/) 
+=======
+- [CNN inner layers visualization](https://tensorspace.org/html/playground/lenet.html)
+>>>>>>> 41b4bed688dfa072ca4c0970a2303132d23122ec
 
 ## ML concepts
 
 - [Multi task training](https://ruder.io/multi-task/), dealing with overfitting using multiple task loss.
 - [Weight decay](https://becominghuman.ai/this-thing-called-weight-decay-a7cd4bcfccab).
 - [RMSprop](https://towardsdatascience.com/understanding-rmsprop-faster-neural-network-learning-62e116fcf29a), RMSprop along with weight decay compromise ADAM optimizer
+- [Adam optimizer](https://towardsdatascience.com/adam-latest-trends-in-deep-learning-optimization-6be9a291375c)
 
 ## Formula competition
 
@@ -70,6 +80,11 @@
 - [PyGame](http://www.pygame.org/news.html), creating simple simulators.
 - [Jupyter Notebook](https://jupyter.org/). not a module but very useful.
 - [Gym](http://gym.openai.com/docs/), Python framework for creating RL environments
+- [Skorch - A scikit-learn compatible neural network library that wraps PyTorch.](https://skorch.readthedocs.io/en/latest/index.html)
+- [mpc.pytorch](https://locuslab.github.io/mpc.pytorch/) - A fast and differentiable model predictive control (MPC) solver for PyTorch
+- [Python Control Systems Library](https://python-control.readthedocs.io/en/latest/)
+- [Python GUI](https://pysimplegui.readthedocs.io/en/latest/)
+- [Adding color to python output](http://ozzmaker.com/add-colour-to-text-in-python/)
 
 ### Vscode extension
 
@@ -91,7 +106,7 @@
 - [Linux Shortcuts](https://www.howtogeek.com/howto/41418/how-to-be-more-productive-in-ubuntu-using-keyboard-shortcuts/)
 
 ## Hardware
-- Nvidia PX2
+- [Choosing a GPU for deep learning](https://timdettmers.com/2019/04/03/which-gpu-for-deep-learning/)
 
 ## State Estimation
 ### Kalman Filtering
@@ -104,5 +119,14 @@
 ## Usefull links
 - [Sphinx](http://www.sphinx-doc.org/en/master/index.html) - Framework for creating documentations
 
+<<<<<<< HEAD
 ## Productivity
 - [Bash one liners](http://www.bashoneliners.com/oneliners/popular/) 
+=======
+## Papers
+
+### RL
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
+- [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741.pdf), and the blog post: [Post](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/)
+
+>>>>>>> 41b4bed688dfa072ca4c0970a2303132d23122ec
