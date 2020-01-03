@@ -17,6 +17,8 @@
     - [Vehicle Dynamic Modeling](#vehicle-dynamic-modeling)
   - [Usefull links](#usefull-links)
   - [Productivity](#productivity)
+  - [Papers](#papers)
+    - [RL](#rl)
 
 ## Learning materials
 
@@ -113,3 +115,9 @@
 
 ## Productivity
 - [Bash one liners](http://www.bashoneliners.com/oneliners/popular/) 
+
+## Papers
+
+### RL
+- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
+- [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741.pdf), and the blog post: [Post](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/)
