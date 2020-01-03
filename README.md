@@ -16,12 +16,7 @@
     - [Kalman Filtering](#kalman-filtering)
     - [Vehicle Dynamic Modeling](#vehicle-dynamic-modeling)
   - [Usefull links](#usefull-links)
-<<<<<<< HEAD
   - [Productivity](#productivity)
-=======
-  - [Papers](#papers)
-    - [RL](#rl)
->>>>>>> 41b4bed688dfa072ca4c0970a2303132d23122ec
 
 ## Learning materials
 
@@ -40,12 +35,9 @@
 - [Papers with code](https://paperswithcode.com/), leading ML,AI algorithms with code!
 - [RL OpenAI Tuts - Recommended](https://spinningup.openai.com/en/latest/)
 - [Managing Conda envs](https://www.freecodecamp.org/news/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c/)
-<<<<<<< HEAD
 - [Deep RL bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [CS285 Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/) 
-=======
 - [CNN inner layers visualization](https://tensorspace.org/html/playground/lenet.html)
->>>>>>> 41b4bed688dfa072ca4c0970a2303132d23122ec
 
 ## ML concepts
 
@@ -119,14 +111,5 @@
 ## Usefull links
 - [Sphinx](http://www.sphinx-doc.org/en/master/index.html) - Framework for creating documentations
 
-<<<<<<< HEAD
 ## Productivity
 - [Bash one liners](http://www.bashoneliners.com/oneliners/popular/) 
-=======
-## Papers
-
-### RL
-- [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/pdf/1712.01815.pdf)
-- [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741.pdf), and the blog post: [Post](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/)
-
->>>>>>> 41b4bed688dfa072ca4c0970a2303132d23122ec
