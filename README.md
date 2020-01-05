@@ -124,4 +124,5 @@
 - [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741.pdf), and the blog post: [Post](https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/)
 
 ### Perception
-- [Zed camera accuracy modeling](https://www.researchgate.net/publication/325854193_Depth_Data_Error_Modeling_of_the_ZED_3D_Vision_Sensor_from_Stereolabs) 
+- [Zed camera accuracy modeling](https://www.researchgate.net/publication/325854193_Depth_Data_Error_Modeling_of_the_ZED_3D_Vision_Sensor_from_Stereolabs)
+- [9 Tips For Training Lightning-Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
