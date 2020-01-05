@@ -80,6 +80,7 @@
 - [Python Control Systems Library](https://python-control.readthedocs.io/en/latest/)
 - [Python GUI](https://pysimplegui.readthedocs.io/en/latest/)
 - [Adding color to python output](http://ozzmaker.com/add-colour-to-text-in-python/)
+- [PyTorch lightning](https://williamfalcon.github.io/pytorch-lightning/), A superclass ontop torch.nn.Module for faster training and ease of use.
 
 ### Vscode extension
 
