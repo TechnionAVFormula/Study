@@ -59,6 +59,7 @@
 - [Vs code](https://code.visualstudio.com/) The best IDE for development. Extensions can be found [here](##Vscode-extension)
 - [Anaconda for python](https://www.anaconda.com/)
 - [MongoDB](https://www.mongodb.com/)
+- [Draw.io](https://github.com/jgraph/drawio-desktop) diagram tool
 
 ### Useful python modules
 
