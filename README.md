@@ -20,6 +20,7 @@
   - [Papers](#papers)
     - [RL](#rl)
     - [Perception](#perception)
+    - [ML](#ml)
 
 ## Learning materials
 
@@ -129,3 +130,6 @@
 - [Zed camera accuracy modeling](https://www.researchgate.net/publication/325854193_Depth_Data_Error_Modeling_of_the_ZED_3D_Vision_Sensor_from_Stereolabs)
 - [9 Tips For Training Lightning-Fast Neural Networks In Pytorch](https://towardsdatascience.com/9-tips-for-training-lightning-fast-neural-networks-in-pytorch-8e63a502f565)
 - [Batch normalization paper](https://arxiv.org/pdf/1502.03167v3.pdf)
+
+### ML
+- [t-sne](https://lvdmaaten.github.io/tsne/)
