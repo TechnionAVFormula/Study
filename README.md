@@ -83,6 +83,7 @@
 - [Python GUI](https://pysimplegui.readthedocs.io/en/latest/)
 - [Adding color to python output](http://ozzmaker.com/add-colour-to-text-in-python/)
 - [PyTorch lightning](https://williamfalcon.github.io/pytorch-lightning/), A superclass ontop torch.nn.Module for faster training and ease of use.
+- [Weights & Biases](https://www.wandb.com/) ML experiments manager
 
 ### Vscode extension
 
