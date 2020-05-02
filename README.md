@@ -84,6 +84,8 @@
 - [Adding color to python output](http://ozzmaker.com/add-colour-to-text-in-python/)
 - [PyTorch lightning](https://williamfalcon.github.io/pytorch-lightning/), A superclass ontop torch.nn.Module for faster training and ease of use.
 - [Weights & Biases](https://www.wandb.com/) ML experiments manager
+- [logging](https://docs.python.org/3/library/logging.html) A logging module
+  - [Examples cookbook](https://docs.python.org/3/howto/logging-cookbook.html)
 
 ### Vscode extension
 
