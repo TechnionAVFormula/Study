@@ -86,7 +86,8 @@
 - [Weights & Biases](https://www.wandb.com/) ML experiments manager
 - [logging](https://docs.python.org/3/library/logging.html) A logging module
   - [Examples cookbook](https://docs.python.org/3/howto/logging-cookbook.html)
-
+  - [Snippet example](https://gitlab.com/technionavformula/systemrunner/snippets/1972787)
+  
 ### Vscode extension
 
 - [Markdown all in one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
