@@ -61,6 +61,8 @@
 - [Anaconda for python](https://www.anaconda.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Draw.io](https://github.com/jgraph/drawio-desktop) diagram tool
+- [BlogPost](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters) How to Write Testable Code
+- [Clean code (Book)](https://technion.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma990026219410203971&context=L&vid=972TEC_INST:972TEC_V1&lang=en&search_scope=MyInstitution&adaptor=Local%20Search%20Engine&tab=LibraryCatalog&query=any,contains,clean%20code&offset=0) A book about how to improve your codeing, Available in the cs library
 
 ### Useful python modules
 
