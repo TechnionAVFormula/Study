@@ -42,6 +42,7 @@
 - [Deep RL bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 - [CS285 Deep RL course](http://rail.eecs.berkeley.edu/deeprlcourse/) 
 - [CNN inner layers visualization](https://tensorspace.org/html/playground/lenet.html)
+- [Git Immersion tut](https://gitimmersion.com/index.html)
 
 ## ML concepts
 
